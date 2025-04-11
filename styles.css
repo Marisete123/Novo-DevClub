@@ -75,3 +75,50 @@ p {
     cursor: pointer;
 }
 
+@media (max-width: 1525px) {
+
+    header {
+      margin-top: 30px;
+      margin-left: 20px;
+    }
+  
+    .link-menu {
+      margin-right: 20px;
+      font-size: 13px;
+      line-height: 20px;
+    }
+  
+    .button-sign-up {
+      width: 110px;
+      height: 45px;
+      font-size: 14px;
+    }
+  
+    img {
+      margin: 100px 0 0 50px;
+      max-width: 100%;
+      height: auto;
+    }
+  
+    div {
+      margin-left: 40px;
+      width: auto;
+      max-width: 90%;
+    }
+  
+    h1 {
+      font-size: 48px;
+      line-height: 64px;
+    }
+  
+    p {
+      font-size: 16px;
+      line-height: 28px;
+      margin-top: 30px;
+      margin-bottom: 40px;
+    }
+  
+    .link-learn-more {
+      font-size: 16px;
+    }
+  }
